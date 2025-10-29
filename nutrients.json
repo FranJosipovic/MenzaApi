@@ -1,0 +1,1426 @@
+[
+  {
+    "sifra": "12116",
+    "proteins": 6.0,
+    "carbs": 11.9,
+    "sugars": 2.6,
+    "fat": 4.6,
+    "calories": 130.2
+  },
+  {
+    "sifra": "12107",
+    "proteins": 6.3,
+    "carbs": 12.3,
+    "sugars": 3.0,
+    "fat": 5.3,
+    "calories": 129.7
+  },
+  {
+    "sifra": "12117",
+    "proteins": 5.7,
+    "carbs": 11.8,
+    "sugars": 2.7,
+    "fat": 5.1,
+    "calories": 129.6
+  },
+  {
+    "sifra": "12115",
+    "proteins": 5.8,
+    "carbs": 12.2,
+    "sugars": 2.7,
+    "fat": 4.6,
+    "calories": 129.6
+  },
+  {
+    "sifra": "12108",
+    "proteins": 6.5,
+    "carbs": 11.5,
+    "sugars": 3.3,
+    "fat": 5.0,
+    "calories": 130.0
+  },
+  {
+    "sifra": "12109",
+    "proteins": 6.3,
+    "carbs": 11.8,
+    "sugars": 2.9,
+    "fat": 5.1,
+    "calories": 130.3
+  },
+  {
+    "sifra": "12110",
+    "proteins": 6.0,
+    "carbs": 12.4,
+    "sugars": 3.5,
+    "fat": 5.2,
+    "calories": 130.2
+  },
+  {
+    "sifra": "12332",
+    "proteins": 6.0,
+    "carbs": 11.6,
+    "sugars": 3.2,
+    "fat": 4.6,
+    "calories": 129.5
+  },
+  {
+    "sifra": "12104",
+    "proteins": 6.3,
+    "carbs": 12.2,
+    "sugars": 2.9,
+    "fat": 4.9,
+    "calories": 129.9
+  },
+  {
+    "sifra": "12112",
+    "proteins": 6.0,
+    "carbs": 12.0,
+    "sugars": 3.1,
+    "fat": 4.7,
+    "calories": 130.3
+  },
+  {
+    "sifra": "12114",
+    "proteins": 6.0,
+    "carbs": 12.3,
+    "sugars": 3.0,
+    "fat": 4.8,
+    "calories": 129.7
+  },
+  {
+    "sifra": "12111",
+    "proteins": 6.3,
+    "carbs": 11.7,
+    "sugars": 2.7,
+    "fat": 5.2,
+    "calories": 130.4
+  },
+  {
+    "sifra": "13101",
+    "proteins": 30.1,
+    "carbs": 5.0,
+    "sugars": 1.0,
+    "fat": 18.4,
+    "calories": 320.2
+  },
+  {
+    "sifra": "13117",
+    "proteins": 9.7,
+    "carbs": 19.8,
+    "sugars": 3.0,
+    "fat": 7.7,
+    "calories": 199.9
+  },
+  {
+    "sifra": "13123",
+    "proteins": 9.6,
+    "carbs": 20.3,
+    "sugars": 3.0,
+    "fat": 8.0,
+    "calories": 200.3
+  },
+  {
+    "sifra": "13113",
+    "proteins": 30.1,
+    "carbs": 4.6,
+    "sugars": 0.9,
+    "fat": 18.2,
+    "calories": 319.6
+  },
+  {
+    "sifra": "12248",
+    "proteins": 6.3,
+    "carbs": 12.1,
+    "sugars": 3.3,
+    "fat": 4.8,
+    "calories": 129.8
+  },
+  {
+    "sifra": "12207",
+    "proteins": 6.0,
+    "carbs": 12.2,
+    "sugars": 3.0,
+    "fat": 5.4,
+    "calories": 129.8
+  },
+  {
+    "sifra": "13110",
+    "proteins": 9.8,
+    "carbs": 20.4,
+    "sugars": 2.9,
+    "fat": 8.0,
+    "calories": 200.1
+  },
+  {
+    "sifra": "12212",
+    "proteins": 29.5,
+    "carbs": 4.9,
+    "sugars": 1.3,
+    "fat": 18.2,
+    "calories": 320.2
+  },
+  {
+    "sifra": "12209",
+    "proteins": 30.4,
+    "carbs": 5.3,
+    "sugars": 0.9,
+    "fat": 17.8,
+    "calories": 319.9
+  },
+  {
+    "sifra": "12254",
+    "proteins": 9.6,
+    "carbs": 20.1,
+    "sugars": 2.7,
+    "fat": 8.4,
+    "calories": 200.1
+  },
+  {
+    "sifra": "12216",
+    "proteins": 9.8,
+    "carbs": 19.9,
+    "sugars": 3.2,
+    "fat": 8.2,
+    "calories": 200.4
+  },
+  {
+    "sifra": "12215",
+    "proteins": 30.0,
+    "carbs": 5.5,
+    "sugars": 1.0,
+    "fat": 17.6,
+    "calories": 320.1
+  },
+  {
+    "sifra": "12201",
+    "proteins": 10.2,
+    "carbs": 20.3,
+    "sugars": 2.7,
+    "fat": 8.4,
+    "calories": 200.4
+  },
+  {
+    "sifra": "13127",
+    "proteins": 10.0,
+    "carbs": 19.9,
+    "sugars": 2.6,
+    "fat": 8.3,
+    "calories": 199.6
+  },
+  {
+    "sifra": "12202",
+    "proteins": 9.7,
+    "carbs": 20.3,
+    "sugars": 3.5,
+    "fat": 7.9,
+    "calories": 199.6
+  },
+  {
+    "sifra": "12250",
+    "proteins": 11.6,
+    "carbs": 44.8,
+    "sugars": 4.1,
+    "fat": 10.5,
+    "calories": 339.8
+  },
+  {
+    "sifra": "13130",
+    "proteins": 9.6,
+    "carbs": 19.9,
+    "sugars": 3.4,
+    "fat": 8.1,
+    "calories": 200.5
+  },
+  {
+    "sifra": "12218",
+    "proteins": 9.7,
+    "carbs": 19.7,
+    "sugars": 3.0,
+    "fat": 8.3,
+    "calories": 200.3
+  },
+  {
+    "sifra": "13103",
+    "proteins": 30.5,
+    "carbs": 4.9,
+    "sugars": 0.7,
+    "fat": 18.3,
+    "calories": 320.1
+  },
+  {
+    "sifra": "13104",
+    "proteins": 30.1,
+    "carbs": 4.9,
+    "sugars": 1.3,
+    "fat": 18.5,
+    "calories": 320.0
+  },
+  {
+    "sifra": "12230",
+    "proteins": 30.1,
+    "carbs": 4.8,
+    "sugars": 0.6,
+    "fat": 18.2,
+    "calories": 320.0
+  },
+  {
+    "sifra": "13105",
+    "proteins": 30.4,
+    "carbs": 4.7,
+    "sugars": 0.6,
+    "fat": 18.2,
+    "calories": 320.3
+  },
+  {
+    "sifra": "13128",
+    "proteins": 29.6,
+    "carbs": 5.2,
+    "sugars": 1.1,
+    "fat": 18.3,
+    "calories": 320.2
+  },
+  {
+    "sifra": "13116",
+    "proteins": 10.5,
+    "carbs": 20.0,
+    "sugars": 2.8,
+    "fat": 7.7,
+    "calories": 200.0
+  },
+  {
+    "sifra": "12234",
+    "proteins": 9.6,
+    "carbs": 19.5,
+    "sugars": 3.4,
+    "fat": 8.4,
+    "calories": 200.0
+  },
+  {
+    "sifra": "12245",
+    "proteins": 5.6,
+    "carbs": 12.0,
+    "sugars": 2.9,
+    "fat": 5.2,
+    "calories": 129.7
+  },
+  {
+    "sifra": "12246",
+    "proteins": 6.2,
+    "carbs": 12.3,
+    "sugars": 2.6,
+    "fat": 4.6,
+    "calories": 130.4
+  },
+  {
+    "sifra": "12203",
+    "proteins": 6.1,
+    "carbs": 12.4,
+    "sugars": 2.5,
+    "fat": 4.6,
+    "calories": 129.5
+  },
+  {
+    "sifra": "13121",
+    "proteins": 28.2,
+    "carbs": 2.2,
+    "sugars": 0.0,
+    "fat": 8.5,
+    "calories": 209.7
+  },
+  {
+    "sifra": "12224",
+    "proteins": 30.2,
+    "carbs": 5.2,
+    "sugars": 1.3,
+    "fat": 18.3,
+    "calories": 319.8
+  },
+  {
+    "sifra": "12204",
+    "proteins": 29.9,
+    "carbs": 4.5,
+    "sugars": 0.9,
+    "fat": 17.6,
+    "calories": 320.0
+  },
+  {
+    "sifra": "12255",
+    "proteins": 9.7,
+    "carbs": 19.7,
+    "sugars": 3.4,
+    "fat": 7.7,
+    "calories": 200.1
+  },
+  {
+    "sifra": "12256",
+    "proteins": 10.3,
+    "carbs": 19.8,
+    "sugars": 2.8,
+    "fat": 7.8,
+    "calories": 200.3
+  },
+  {
+    "sifra": "12225",
+    "proteins": 5.8,
+    "carbs": 12.1,
+    "sugars": 2.9,
+    "fat": 5.5,
+    "calories": 130.1
+  },
+  {
+    "sifra": "12226",
+    "proteins": 11.7,
+    "carbs": 45.2,
+    "sugars": 4.3,
+    "fat": 10.0,
+    "calories": 340.4
+  },
+  {
+    "sifra": "12219",
+    "proteins": 30.3,
+    "carbs": 5.0,
+    "sugars": 1.4,
+    "fat": 18.3,
+    "calories": 320.2
+  },
+  {
+    "sifra": "12233",
+    "proteins": 27.7,
+    "carbs": 1.7,
+    "sugars": 0.5,
+    "fat": 7.6,
+    "calories": 210.3
+  },
+  {
+    "sifra": "12235",
+    "proteins": 28.3,
+    "carbs": 2.4,
+    "sugars": 0,
+    "fat": 8.3,
+    "calories": 209.9
+  },
+  {
+    "sifra": "12236",
+    "proteins": 28.1,
+    "carbs": 2.3,
+    "sugars": 0.0,
+    "fat": 8.0,
+    "calories": 210.3
+  },
+  {
+    "sifra": "12220",
+    "proteins": 9.7,
+    "carbs": 19.6,
+    "sugars": 3.2,
+    "fat": 8.1,
+    "calories": 199.6
+  },
+  {
+    "sifra": "12237",
+    "proteins": 11.5,
+    "carbs": 44.6,
+    "sugars": 3.7,
+    "fat": 10.0,
+    "calories": 339.7
+  },
+  {
+    "sifra": "12221",
+    "proteins": 9.9,
+    "carbs": 20.1,
+    "sugars": 2.9,
+    "fat": 7.9,
+    "calories": 199.7
+  },
+  {
+    "sifra": "13125",
+    "proteins": 30.5,
+    "carbs": 4.9,
+    "sugars": 1.3,
+    "fat": 18.2,
+    "calories": 320.1
+  },
+  {
+    "sifra": "12206",
+    "proteins": 11.7,
+    "carbs": 44.9,
+    "sugars": 3.5,
+    "fat": 9.8,
+    "calories": 340.3
+  },
+  {
+    "sifra": "13129",
+    "proteins": 29.7,
+    "carbs": 5.4,
+    "sugars": 0.6,
+    "fat": 17.6,
+    "calories": 319.9
+  },
+  {
+    "sifra": "12222",
+    "proteins": 11.7,
+    "carbs": 44.8,
+    "sugars": 4.2,
+    "fat": 10.3,
+    "calories": 339.8
+  },
+  {
+    "sifra": "12242",
+    "proteins": 12.2,
+    "carbs": 44.8,
+    "sugars": 3.9,
+    "fat": 10.5,
+    "calories": 339.6
+  },
+  {
+    "sifra": "12223",
+    "proteins": 12.1,
+    "carbs": 44.9,
+    "sugars": 4.3,
+    "fat": 10.2,
+    "calories": 339.7
+  },
+  {
+    "sifra": "12238",
+    "proteins": 12.0,
+    "carbs": 45.4,
+    "sugars": 3.9,
+    "fat": 10.1,
+    "calories": 340.1
+  },
+  {
+    "sifra": "13107",
+    "proteins": 29.9,
+    "carbs": 4.7,
+    "sugars": 1.0,
+    "fat": 17.9,
+    "calories": 319.8
+  },
+  {
+    "sifra": "12401",
+    "proteins": 5.1,
+    "carbs": 24.6,
+    "sugars": 2.5,
+    "fat": 5.8,
+    "calories": 180.3
+  },
+  {
+    "sifra": "12402",
+    "proteins": 4.6,
+    "carbs": 24.9,
+    "sugars": 3.0,
+    "fat": 5.8,
+    "calories": 179.9
+  },
+  {
+    "sifra": "12404",
+    "proteins": 9.9,
+    "carbs": 20.3,
+    "sugars": 2.7,
+    "fat": 8.0,
+    "calories": 200.1
+  },
+  {
+    "sifra": "12406",
+    "proteins": 5.5,
+    "carbs": 24.7,
+    "sugars": 3.5,
+    "fat": 5.6,
+    "calories": 180.0
+  },
+  {
+    "sifra": "12409",
+    "proteins": 5.5,
+    "carbs": 24.7,
+    "sugars": 3.4,
+    "fat": 6.2,
+    "calories": 179.9
+  },
+  {
+    "sifra": "12411",
+    "proteins": 9.8,
+    "carbs": 20.0,
+    "sugars": 3.1,
+    "fat": 8.5,
+    "calories": 199.8
+  },
+  {
+    "sifra": "12412",
+    "proteins": 10.5,
+    "carbs": 20.1,
+    "sugars": 2.6,
+    "fat": 7.8,
+    "calories": 199.7
+  },
+  {
+    "sifra": "12413",
+    "proteins": 4.5,
+    "carbs": 25.3,
+    "sugars": 2.6,
+    "fat": 5.7,
+    "calories": 179.8
+  },
+  {
+    "sifra": "12448",
+    "proteins": 4.8,
+    "carbs": 24.7,
+    "sugars": 3.3,
+    "fat": 6.3,
+    "calories": 180.0
+  },
+  {
+    "sifra": "12414",
+    "proteins": 9.8,
+    "carbs": 19.9,
+    "sugars": 3.2,
+    "fat": 7.9,
+    "calories": 199.6
+  },
+  {
+    "sifra": "12415",
+    "proteins": 9.6,
+    "carbs": 20.3,
+    "sugars": 3.3,
+    "fat": 7.9,
+    "calories": 200.2
+  },
+  {
+    "sifra": "12410",
+    "proteins": 9.6,
+    "carbs": 19.5,
+    "sugars": 2.9,
+    "fat": 7.6,
+    "calories": 200.4
+  },
+  {
+    "sifra": "12416",
+    "proteins": 9.6,
+    "carbs": 20.0,
+    "sugars": 2.8,
+    "fat": 7.6,
+    "calories": 200.4
+  },
+  {
+    "sifra": "12417",
+    "proteins": 9.9,
+    "carbs": 20.4,
+    "sugars": 2.7,
+    "fat": 7.9,
+    "calories": 200.0
+  },
+  {
+    "sifra": "12418",
+    "proteins": 9.8,
+    "carbs": 20.2,
+    "sugars": 2.9,
+    "fat": 8.2,
+    "calories": 200.3
+  },
+  {
+    "sifra": "12422",
+    "proteins": 5.0,
+    "carbs": 25.1,
+    "sugars": 3.2,
+    "fat": 5.7,
+    "calories": 179.5
+  },
+  {
+    "sifra": "12421",
+    "proteins": 9.7,
+    "carbs": 20.4,
+    "sugars": 2.7,
+    "fat": 8.2,
+    "calories": 200.3
+  },
+  {
+    "sifra": "12443",
+    "proteins": 4.6,
+    "carbs": 25.1,
+    "sugars": 3.3,
+    "fat": 5.6,
+    "calories": 180.1
+  },
+  {
+    "sifra": "12425",
+    "proteins": 5.1,
+    "carbs": 24.9,
+    "sugars": 3.2,
+    "fat": 5.6,
+    "calories": 180.1
+  },
+  {
+    "sifra": "12426",
+    "proteins": 5.3,
+    "carbs": 25.1,
+    "sugars": 3.1,
+    "fat": 5.9,
+    "calories": 179.6
+  },
+  {
+    "sifra": "12430",
+    "proteins": 4.5,
+    "carbs": 25.1,
+    "sugars": 2.8,
+    "fat": 6.5,
+    "calories": 180.3
+  },
+  {
+    "sifra": "12423",
+    "proteins": 10.5,
+    "carbs": 19.5,
+    "sugars": 2.5,
+    "fat": 7.6,
+    "calories": 199.7
+  },
+  {
+    "sifra": "12431",
+    "proteins": 4.8,
+    "carbs": 24.7,
+    "sugars": 3.2,
+    "fat": 5.8,
+    "calories": 180.3
+  },
+  {
+    "sifra": "12433",
+    "proteins": 10.3,
+    "carbs": 20.4,
+    "sugars": 2.9,
+    "fat": 7.6,
+    "calories": 200.2
+  },
+  {
+    "sifra": "12434",
+    "proteins": 10.2,
+    "carbs": 20.3,
+    "sugars": 2.7,
+    "fat": 7.6,
+    "calories": 200.1
+  },
+  {
+    "sifra": "12435",
+    "proteins": 9.6,
+    "carbs": 20.2,
+    "sugars": 2.9,
+    "fat": 7.7,
+    "calories": 199.8
+  },
+  {
+    "sifra": "12437",
+    "proteins": 3.1,
+    "carbs": 7.2,
+    "sugars": 3.9,
+    "fat": 3.0,
+    "calories": 70.1
+  },
+  {
+    "sifra": "12452",
+    "proteins": 3.2,
+    "carbs": 7.1,
+    "sugars": 4.2,
+    "fat": 3.3,
+    "calories": 70.2
+  },
+  {
+    "sifra": "12438",
+    "proteins": 5.5,
+    "carbs": 25.0,
+    "sugars": 2.6,
+    "fat": 5.9,
+    "calories": 180.3
+  },
+  {
+    "sifra": "12439",
+    "proteins": 4.7,
+    "carbs": 24.7,
+    "sugars": 2.5,
+    "fat": 6.4,
+    "calories": 179.8
+  },
+  {
+    "sifra": "12440",
+    "proteins": 9.6,
+    "carbs": 20.4,
+    "sugars": 2.7,
+    "fat": 8.4,
+    "calories": 199.8
+  },
+  {
+    "sifra": "12442",
+    "proteins": 11.7,
+    "carbs": 44.9,
+    "sugars": 3.5,
+    "fat": 9.5,
+    "calories": 340.1
+  },
+  {
+    "sifra": "12441",
+    "proteins": 11.8,
+    "carbs": 44.5,
+    "sugars": 3.8,
+    "fat": 9.9,
+    "calories": 340.1
+  },
+  {
+    "sifra": "12445",
+    "proteins": 9.7,
+    "carbs": 20.2,
+    "sugars": 3.4,
+    "fat": 8.4,
+    "calories": 199.8
+  },
+  {
+    "sifra": "12446",
+    "proteins": 11.7,
+    "carbs": 44.6,
+    "sugars": 4.4,
+    "fat": 9.9,
+    "calories": 339.6
+  },
+  {
+    "sifra": "12447",
+    "proteins": 5.4,
+    "carbs": 24.8,
+    "sugars": 3.4,
+    "fat": 6.0,
+    "calories": 180.3
+  },
+  {
+    "sifra": "12609",
+    "proteins": 3.4,
+    "carbs": 6.9,
+    "sugars": 4.3,
+    "fat": 3.3,
+    "calories": 69.7
+  },
+  {
+    "sifra": "12611",
+    "proteins": 3.1,
+    "carbs": 7.4,
+    "sugars": 3.5,
+    "fat": 2.9,
+    "calories": 69.7
+  },
+  {
+    "sifra": "12602",
+    "proteins": 2.8,
+    "carbs": 7.2,
+    "sugars": 4.4,
+    "fat": 2.8,
+    "calories": 70.2
+  },
+  {
+    "sifra": "12606",
+    "proteins": 3.3,
+    "carbs": 7.2,
+    "sugars": 3.9,
+    "fat": 2.9,
+    "calories": 70.4
+  },
+  {
+    "sifra": "12608",
+    "proteins": 2.6,
+    "carbs": 7.4,
+    "sugars": 4.4,
+    "fat": 3.3,
+    "calories": 70.5
+  },
+  {
+    "sifra": "12607",
+    "proteins": 3.2,
+    "carbs": 6.8,
+    "sugars": 3.9,
+    "fat": 2.7,
+    "calories": 69.9
+  },
+  {
+    "sifra": "12613",
+    "proteins": 3.4,
+    "carbs": 7.4,
+    "sugars": 4.0,
+    "fat": 3.2,
+    "calories": 70.2
+  },
+  {
+    "sifra": "12603",
+    "proteins": 2.8,
+    "carbs": 6.8,
+    "sugars": 4.3,
+    "fat": 2.9,
+    "calories": 70.1
+  },
+  {
+    "sifra": "12610",
+    "proteins": 2.8,
+    "carbs": 7.5,
+    "sugars": 4.5,
+    "fat": 3.2,
+    "calories": 70.4
+  },
+  {
+    "sifra": "12614",
+    "proteins": 3.1,
+    "carbs": 6.5,
+    "sugars": 3.6,
+    "fat": 2.9,
+    "calories": 70.0
+  },
+  {
+    "sifra": "13902",
+    "proteins": 5.0,
+    "carbs": 39.9,
+    "sugars": 20.3,
+    "fat": 15.3,
+    "calories": 340.0
+  },
+  {
+    "sifra": "13950",
+    "proteins": 9.7,
+    "carbs": 20.1,
+    "sugars": 3.4,
+    "fat": 8.4,
+    "calories": 199.6
+  },
+  {
+    "sifra": "13906",
+    "proteins": 5.4,
+    "carbs": 39.6,
+    "sugars": 19.7,
+    "fat": 15.4,
+    "calories": 340.0
+  },
+  {
+    "sifra": "13953",
+    "proteins": 5.0,
+    "carbs": 39.6,
+    "sugars": 20.3,
+    "fat": 15.3,
+    "calories": 340.1
+  },
+  {
+    "sifra": "13952",
+    "proteins": 17.7,
+    "carbs": 5.9,
+    "sugars": 2.1,
+    "fat": 21.9,
+    "calories": 309.7
+  },
+  {
+    "sifra": "13946",
+    "proteins": 5.3,
+    "carbs": 40.4,
+    "sugars": 20.4,
+    "fat": 14.5,
+    "calories": 339.7
+  },
+  {
+    "sifra": "13955",
+    "proteins": 10.2,
+    "carbs": 20.3,
+    "sugars": 3.0,
+    "fat": 8.0,
+    "calories": 200.1
+  },
+  {
+    "sifra": "13954",
+    "proteins": 10.3,
+    "carbs": 19.8,
+    "sugars": 2.5,
+    "fat": 8.2,
+    "calories": 200.3
+  },
+  {
+    "sifra": "12828",
+    "proteins": 9.9,
+    "carbs": 19.6,
+    "sugars": 3.3,
+    "fat": 7.9,
+    "calories": 200.4
+  },
+  {
+    "sifra": "13751",
+    "proteins": 9.7,
+    "carbs": 20.4,
+    "sugars": 2.7,
+    "fat": 7.8,
+    "calories": 200.5
+  },
+  {
+    "sifra": "13752",
+    "proteins": 9.7,
+    "carbs": 19.8,
+    "sugars": 3.0,
+    "fat": 7.9,
+    "calories": 200.0
+  },
+  {
+    "sifra": "13951",
+    "proteins": 5.2,
+    "carbs": 39.6,
+    "sugars": 19.8,
+    "fat": 14.7,
+    "calories": 339.8
+  },
+  {
+    "sifra": "12857",
+    "proteins": 5.5,
+    "carbs": 39.5,
+    "sugars": 20.4,
+    "fat": 15.3,
+    "calories": 339.5
+  },
+  {
+    "sifra": "12753",
+    "proteins": 1.3,
+    "carbs": 19.7,
+    "sugars": 14.7,
+    "fat": 0,
+    "calories": 89.5
+  },
+  {
+    "sifra": "12751",
+    "proteins": 1.2,
+    "carbs": 20.1,
+    "sugars": 15.1,
+    "fat": 0,
+    "calories": 89.7
+  },
+  {
+    "sifra": "12754",
+    "proteins": 0.8,
+    "carbs": 19.9,
+    "sugars": 15.3,
+    "fat": 0.5,
+    "calories": 90.2
+  },
+  {
+    "sifra": "12752",
+    "proteins": 0.7,
+    "carbs": 20.0,
+    "sugars": 15.5,
+    "fat": 0.2,
+    "calories": 90.4
+  },
+  {
+    "sifra": "13925",
+    "proteins": 5.0,
+    "carbs": 40.4,
+    "sugars": 19.7,
+    "fat": 14.7,
+    "calories": 340.0
+  },
+  {
+    "sifra": "13901",
+    "proteins": 10.3,
+    "carbs": 20.1,
+    "sugars": 2.9,
+    "fat": 7.6,
+    "calories": 199.8
+  },
+  {
+    "sifra": "12902",
+    "proteins": 5.9,
+    "carbs": 15.2,
+    "sugars": 12.4,
+    "fat": 3.9,
+    "calories": 130.2
+  },
+  {
+    "sifra": "13606",
+    "proteins": 10.3,
+    "carbs": 20.2,
+    "sugars": 2.7,
+    "fat": 7.9,
+    "calories": 199.7
+  },
+  {
+    "sifra": "13702",
+    "proteins": 6.3,
+    "carbs": 15.0,
+    "sugars": 12.4,
+    "fat": 3.6,
+    "calories": 129.6
+  },
+  {
+    "sifra": "13701",
+    "proteins": 5.7,
+    "carbs": 15.0,
+    "sugars": 12.1,
+    "fat": 4.4,
+    "calories": 129.7
+  },
+  {
+    "sifra": "12701",
+    "proteins": 5.6,
+    "carbs": 14.6,
+    "sugars": 11.6,
+    "fat": 3.5,
+    "calories": 130.0
+  },
+  {
+    "sifra": "12702",
+    "proteins": 6.1,
+    "carbs": 15.1,
+    "sugars": 11.5,
+    "fat": 3.9,
+    "calories": 130.2
+  },
+  {
+    "sifra": "12905",
+    "proteins": 6.4,
+    "carbs": 14.5,
+    "sugars": 12.4,
+    "fat": 3.7,
+    "calories": 129.5
+  },
+  {
+    "sifra": "12309",
+    "proteins": 9.6,
+    "carbs": 20.5,
+    "sugars": 2.6,
+    "fat": 7.7,
+    "calories": 199.6
+  },
+  {
+    "sifra": "12301",
+    "proteins": 11.8,
+    "carbs": 44.5,
+    "sugars": 4.3,
+    "fat": 9.8,
+    "calories": 339.6
+  },
+  {
+    "sifra": "12315",
+    "proteins": 29.6,
+    "carbs": 5.0,
+    "sugars": 0.7,
+    "fat": 17.8,
+    "calories": 320.2
+  },
+  {
+    "sifra": "12317",
+    "proteins": 9.9,
+    "carbs": 19.8,
+    "sugars": 3.1,
+    "fat": 8.2,
+    "calories": 200.3
+  },
+  {
+    "sifra": "12306",
+    "proteins": 10.2,
+    "carbs": 20.2,
+    "sugars": 3.2,
+    "fat": 8.1,
+    "calories": 200.4
+  },
+  {
+    "sifra": "12307",
+    "proteins": 10.0,
+    "carbs": 20.3,
+    "sugars": 3.0,
+    "fat": 8.3,
+    "calories": 200.4
+  },
+  {
+    "sifra": "12319",
+    "proteins": 10.4,
+    "carbs": 20.2,
+    "sugars": 2.8,
+    "fat": 8.0,
+    "calories": 199.6
+  },
+  {
+    "sifra": "12320",
+    "proteins": 18.0,
+    "carbs": 6.4,
+    "sugars": 2.3,
+    "fat": 22.5,
+    "calories": 310.1
+  },
+  {
+    "sifra": "12436",
+    "proteins": 12.1,
+    "carbs": 45.0,
+    "sugars": 4.2,
+    "fat": 10.1,
+    "calories": 339.6
+  },
+  {
+    "sifra": "12324",
+    "proteins": 20.1,
+    "carbs": 10.5,
+    "sugars": 0.6,
+    "fat": 12.2,
+    "calories": 219.7
+  },
+  {
+    "sifra": "12325",
+    "proteins": 19.8,
+    "carbs": 9.7,
+    "sugars": 0.8,
+    "fat": 12.1,
+    "calories": 219.5
+  },
+  {
+    "sifra": "12432",
+    "proteins": 12.4,
+    "carbs": 45.0,
+    "sugars": 3.7,
+    "fat": 10.5,
+    "calories": 340.2
+  },
+  {
+    "sifra": "12331",
+    "proteins": 17.9,
+    "carbs": 6.5,
+    "sugars": 1.8,
+    "fat": 22.0,
+    "calories": 310.3
+  },
+  {
+    "sifra": "12333",
+    "proteins": 9.6,
+    "carbs": 19.7,
+    "sugars": 2.6,
+    "fat": 8.0,
+    "calories": 199.9
+  },
+  {
+    "sifra": "12335",
+    "proteins": 10.2,
+    "carbs": 19.9,
+    "sugars": 3.3,
+    "fat": 8.1,
+    "calories": 200.2
+  },
+  {
+    "sifra": "12327",
+    "proteins": 17.9,
+    "carbs": 6.1,
+    "sugars": 1.7,
+    "fat": 21.7,
+    "calories": 310.4
+  },
+  {
+    "sifra": "13213",
+    "proteins": 18.4,
+    "carbs": 6.2,
+    "sugars": 1.7,
+    "fat": 21.8,
+    "calories": 310.0
+  },
+  {
+    "sifra": "13201",
+    "proteins": 9.6,
+    "carbs": 19.6,
+    "sugars": 3.4,
+    "fat": 7.9,
+    "calories": 199.9
+  },
+  {
+    "sifra": "13302",
+    "proteins": 10.2,
+    "carbs": 20.4,
+    "sugars": 3.4,
+    "fat": 8.0,
+    "calories": 200.0
+  },
+  {
+    "sifra": "13204",
+    "proteins": 19.8,
+    "carbs": 35.1,
+    "sugars": 4.9,
+    "fat": 18.0,
+    "calories": 399.5
+  },
+  {
+    "sifra": "13203",
+    "proteins": 20.2,
+    "carbs": 34.6,
+    "sugars": 5.0,
+    "fat": 18.1,
+    "calories": 399.6
+  },
+  {
+    "sifra": "13216",
+    "proteins": 5.2,
+    "carbs": 40.2,
+    "sugars": 19.7,
+    "fat": 15.2,
+    "calories": 340.2
+  },
+  {
+    "sifra": "13218",
+    "proteins": 9.9,
+    "carbs": 20.5,
+    "sugars": 2.7,
+    "fat": 8.4,
+    "calories": 200.1
+  },
+  {
+    "sifra": "13605",
+    "proteins": 9.8,
+    "carbs": 19.7,
+    "sugars": 2.9,
+    "fat": 7.9,
+    "calories": 199.8
+  },
+  {
+    "sifra": "12802",
+    "proteins": 9.7,
+    "carbs": 19.9,
+    "sugars": 2.6,
+    "fat": 7.8,
+    "calories": 200.0
+  },
+  {
+    "sifra": "12239",
+    "proteins": 9.8,
+    "carbs": 20.1,
+    "sugars": 2.9,
+    "fat": 7.8,
+    "calories": 200.4
+  },
+  {
+    "sifra": "13212",
+    "proteins": 17.7,
+    "carbs": 5.7,
+    "sugars": 1.9,
+    "fat": 22.4,
+    "calories": 309.8
+  },
+  {
+    "sifra": "13217",
+    "proteins": 20.3,
+    "carbs": 35.2,
+    "sugars": 4.9,
+    "fat": 17.8,
+    "calories": 399.8
+  },
+  {
+    "sifra": "13136",
+    "proteins": 20.3,
+    "carbs": 35.1,
+    "sugars": 4.7,
+    "fat": 17.5,
+    "calories": 399.9
+  },
+  {
+    "sifra": "13134",
+    "proteins": 17.5,
+    "carbs": 6.1,
+    "sugars": 1.9,
+    "fat": 21.9,
+    "calories": 310.0
+  },
+  {
+    "sifra": "13131",
+    "proteins": 20.3,
+    "carbs": 34.9,
+    "sugars": 4.9,
+    "fat": 18.0,
+    "calories": 400.2
+  },
+  {
+    "sifra": "13211",
+    "proteins": 3.3,
+    "carbs": 7.4,
+    "sugars": 4.5,
+    "fat": 2.9,
+    "calories": 69.6
+  },
+  {
+    "sifra": "13609",
+    "proteins": 10.3,
+    "carbs": 19.6,
+    "sugars": 3.4,
+    "fat": 8.0,
+    "calories": 200.5
+  },
+  {
+    "sifra": "13608",
+    "proteins": 10.4,
+    "carbs": 20.3,
+    "sugars": 3.2,
+    "fat": 7.6,
+    "calories": 200.1
+  },
+  {
+    "sifra": "13501",
+    "proteins": 19.8,
+    "carbs": 35.5,
+    "sugars": 5.3,
+    "fat": 18.1,
+    "calories": 400.4
+  },
+  {
+    "sifra": "13505",
+    "proteins": 18.1,
+    "carbs": 6.3,
+    "sugars": 1.5,
+    "fat": 21.9,
+    "calories": 309.7
+  },
+  {
+    "sifra": "13503",
+    "proteins": 18.2,
+    "carbs": 5.8,
+    "sugars": 2.1,
+    "fat": 22.1,
+    "calories": 309.5
+  },
+  {
+    "sifra": "13601",
+    "proteins": 17.8,
+    "carbs": 6.3,
+    "sugars": 1.5,
+    "fat": 22.3,
+    "calories": 309.8
+  },
+  {
+    "sifra": "12501",
+    "proteins": 6.1,
+    "carbs": 12.4,
+    "sugars": 3.2,
+    "fat": 5.3,
+    "calories": 130.1
+  },
+  {
+    "sifra": "12502",
+    "proteins": 5.5,
+    "carbs": 12.4,
+    "sugars": 3.4,
+    "fat": 5.3,
+    "calories": 130.4
+  },
+  {
+    "sifra": "12507",
+    "proteins": 6.1,
+    "carbs": 11.8,
+    "sugars": 3.0,
+    "fat": 5.3,
+    "calories": 130.0
+  },
+  {
+    "sifra": "12508",
+    "proteins": 6.5,
+    "carbs": 11.8,
+    "sugars": 3.5,
+    "fat": 5.0,
+    "calories": 129.8
+  },
+  {
+    "sifra": "12509",
+    "proteins": 6.1,
+    "carbs": 12.1,
+    "sugars": 3.5,
+    "fat": 5.0,
+    "calories": 129.8
+  },
+  {
+    "sifra": "12510",
+    "proteins": 5.5,
+    "carbs": 11.8,
+    "sugars": 3.2,
+    "fat": 5.0,
+    "calories": 129.8
+  }
+]

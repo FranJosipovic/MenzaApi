@@ -1,3 +1,6 @@
+using Menza.WebApi.Repository;
+using Menza.WebApi.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,7 +10,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddHttpClient("stucos",(serviceProvider, client) =>
+builder.Services.AddScoped<OsijekMenzeReader>();
+builder.Services.AddScoped<DataNormalizer>();
+builder.Services.AddScoped<MenzeRespository>();
+builder.Services.AddScoped<MenuRepository>();
+
+builder.Services.AddHttpClient<OsijekMenzeReader>((serviceProvider, client) =>
 {
     client.BaseAddress = new Uri("http://www.stucos.unios.hr/upload");
 });

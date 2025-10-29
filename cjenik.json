@@ -1,0 +1,2122 @@
+﻿[
+  {
+    "naziv_grupe": "JUHE",
+    "jela_u_grupi": [
+      {
+        "sifra": "12116",
+        "naziv": "JUHA BEČKA",
+        "grupa": "411",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12107",
+        "naziv": "JUHA BISTRA GOV.KONC. S TJEST.",
+        "grupa": "411",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12117",
+        "naziv": "JUHA FRANCUSKA",
+        "grupa": "411",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12115",
+        "naziv": "JUHA MINESTR./SLAV.",
+        "grupa": "411",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12108",
+        "naziv": "JUHA OD BROKULA",
+        "grupa": "411",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12109",
+        "naziv": "JUHA OD CVJETAČE",
+        "grupa": "411",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12110",
+        "naziv": "JUHA OD GLJIVA",
+        "grupa": "411",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12332",
+        "naziv": "JUHA OD GRAŠKA",
+        "grupa": "411",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12104",
+        "naziv": "JUHA OD POVRĆA",
+        "grupa": "411",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12112",
+        "naziv": "JUHA OD RAJČICE",
+        "grupa": "411",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12114",
+        "naziv": "JUHA OD ŠPAROGA",
+        "grupa": "411",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12111",
+        "naziv": "JUHA PROLJETNA",
+        "grupa": "411",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      }
+    ]
+  },
+  {
+    "naziv_grupe": "GLAVNO JELO",
+    "jela_u_grupi": [
+      {
+        "sifra": "13101",
+        "naziv": "BEČKI ODREZAK",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13117",
+        "naziv": "CORDON BLUE",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13123",
+        "naziv": "ČOBANAC",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13113",
+        "naziv": "ĆEVAPI",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12248",
+        "naziv": "GULAŠ S VINOM i KRUMPIROM",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 3.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12207",
+        "naziv": "JUNEĆI GULAŠ",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 3.3,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13110",
+        "naziv": "JUNEĆI RAMSTEK NA ROŠTILJU",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 4,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12212",
+        "naziv": "JUNETINA KUHANA",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 3.3,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12209",
+        "naziv": "JUNETINA S GRAŠKOM",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 3.3,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12254",
+        "naziv": "KOBASICE KUHANE KRANJSKE",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 1.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12216",
+        "naziv": "KOSANA ŠTRUCA",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12215",
+        "naziv": "KOSANI ODREZAK",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12201",
+        "naziv": "KOTLET NA ROŠTILJU",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13127",
+        "naziv": "KOTLET SA ŠAMPINJONIMA",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12202",
+        "naziv": "KOTLET U POVRĆU",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12250",
+        "naziv": "LAZANJE",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 3.3,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12217",
+        "naziv": "MESNE OKRUG. UMAK RAJČICA",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13130",
+        "naziv": "MORSKI PAS",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.26,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12218",
+        "naziv": "MUSAKA",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 3.3,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13103",
+        "naziv": "NARAVNI ODREZAK",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13104",
+        "naziv": "ODREZAK LJUBLJANSKI",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12230",
+        "naziv": "ODREZAK OD TUNE",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13105",
+        "naziv": "ODREZAK PARIŠKI",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13128",
+        "naziv": "OSJEČKI ODREZAK",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 3,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13116",
+        "naziv": "PANIRANI PILEĆI FILE",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12234",
+        "naziv": "PANIRANI ŠTAPIĆI OD RIBE",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12245",
+        "naziv": "PAPRIKAŠ S GRAŠKOM",
+        "grupa": "412",
+        "jm": "412",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12246",
+        "naziv": "PAPRIKAŠ S MAHUNAMA",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12203",
+        "naziv": "PAPRIKAŠ SVINJSKI",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13121",
+        "naziv": "PASTRVA NA ROŠTILJU",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 3,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12224",
+        "naziv": "PEČENA PILETINA",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.3,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12204",
+        "naziv": "PEČENA SVINJETINA",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12255",
+        "naziv": "PEČENICE",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12256",
+        "naziv": "PILEĆI FILE NA ŽARU",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.4,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12225",
+        "naziv": "PILEĆI PAPRIKAŠ",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12226",
+        "naziv": "PILEĆI RIŽOTO",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12219",
+        "naziv": "PLJESKAVICA",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12233",
+        "naziv": "POHANI OSLIĆ FILE",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12235",
+        "naziv": "PRŽENE LIGNJE",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12236",
+        "naziv": "PRŽENE SRDELE",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12220",
+        "naziv": "PUNJENA PAPRIKA",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12237",
+        "naziv": "RIŽOTO OD MORSKIH PLODOVA",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.39,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12221",
+        "naziv": "SARMA",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13124",
+        "naziv": "SVINJSKI ODREZAK U UMAKU OD ŠAM.",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13125",
+        "naziv": "SVINJSKI ODREZAK U VRHNJU",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12206",
+        "naziv": "SVINJSKI RIŽOTO",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13129",
+        "naziv": "ŠOKAČKI ODREZAK",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12222",
+        "naziv": "ŠPAGETI  BOLONJEZ",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12242",
+        "naziv": "TJESTENINA MILANES",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12223",
+        "naziv": "TJESTENINA S MESOM",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12238",
+        "naziv": "TJESTENINA S TUNOM I ŠAPINJONIMA",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.3,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13107",
+        "naziv": "ZAGREBAČKI ODREZAK",
+        "grupa": "412",
+        "jm": "KOM",
+        "cijena": 2.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      }
+    ]
+  },
+  {
+    "naziv_grupe": "PRILOG",
+    "jela_u_grupi": [
+      {
+        "sifra": "12401",
+        "naziv": "BLITVA S KRUMPIROM",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12402",
+        "naziv": "BROKULA S KRUMPIROM",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12404",
+        "naziv": "ĐUVEČ",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12405",
+        "naziv": "GRAŠAK NA MARGARINU",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12406",
+        "naziv": "GRAŠAK S MRKVOM",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12409",
+        "naziv": "KELJ S  KRUMPIROM",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12411",
+        "naziv": "KROKETI",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12412",
+        "naziv": "KRPICE SA ZELJEM",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12413",
+        "naziv": "KRUMPIR PEKARSKI",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12448",
+        "naziv": "KRUMPIR S TIJESTOM",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12414",
+        "naziv": "KUHANA CVJETAČA",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12415",
+        "naziv": "KUHANA MRKVA",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12410",
+        "naziv": "KUHANI KELJ PUPČAR",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12416",
+        "naziv": "KUKURUZ",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12417",
+        "naziv": "KUPUS KISELI PIRJANI",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12418",
+        "naziv": "KUPUS U RAJČICI",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12420",
+        "naziv": "MAHUNE U UMAKU",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12422",
+        "naziv": "MIJEŠANO POVRĆE S KRUMPIROM",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12421",
+        "naziv": "MLINCI",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12443",
+        "naziv": "NJOKI",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12425",
+        "naziv": "PEČENI KRUMPIR",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12426",
+        "naziv": "PIRE KRUMPIR",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12430",
+        "naziv": "POMFRIT",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12423",
+        "naziv": "POVRTNA MJEŠAVINA (SMRZNUTA)",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12431",
+        "naziv": "RESTANI KRUMPIR",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12433",
+        "naziv": "RIZI BIZI",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12434",
+        "naziv": "RIŽA KUHANA",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12435",
+        "naziv": "RIŽA PIRJANA",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12437",
+        "naziv": "SALATA GRAH - PRILOG",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12452",
+        "naziv": "SALATA OD KRUMPIRA",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12438",
+        "naziv": "SAVIJAČA S POVRĆEM-KRUMPIRUŠA",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12439",
+        "naziv": "SLANI KRUMPIR",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12440",
+        "naziv": "ŠPINAT NA MLIJEKU",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12442",
+        "naziv": "TJESTENINA",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12441",
+        "naziv": "TJESTENINA ZAPEČENA",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12445",
+        "naziv": "ZAPEČENI GRAH",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12446",
+        "naziv": "ZELENI RIŽOTO",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12447",
+        "naziv": "ŽGANCI/PALENTA",
+        "grupa": "413",
+        "jm": "KOM",
+        "cijena": 1.1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      }
+    ]
+  },
+  {
+    "naziv_grupe": "SALATA",
+    "jela_u_grupi": [
+      {
+        "sifra": "12609",
+        "naziv": "SALATA MIJEŠANA KISELA",
+        "grupa": "414",
+        "jm": "KOM",
+        "cijena": 0.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12611",
+        "naziv": "SALATA MIJEŠANA SEZONSKA",
+        "grupa": "414",
+        "jm": "KOM",
+        "cijena": 0.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12602",
+        "naziv": "SALATA OD GRAHA",
+        "grupa": "414",
+        "jm": "KOM",
+        "cijena": 0.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12606",
+        "naziv": "SALATA OD KISELE CIKLE",
+        "grupa": "414",
+        "jm": "KOM",
+        "cijena": 0.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12608",
+        "naziv": "SALATA OD KISELE PAPRIKE - FILET",
+        "grupa": "414",
+        "jm": "KOM",
+        "cijena": 0.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12607",
+        "naziv": "SALATA OD KISELIH KRASTAVACA",
+        "grupa": "414",
+        "jm": "KOM",
+        "cijena": 0.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12613",
+        "naziv": "SALATA OD RAJČICE",
+        "grupa": "414",
+        "jm": "KOM",
+        "cijena": 0.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12603",
+        "naziv": "SALATA OD SVJEŽEG KUPUSA",
+        "grupa": "414",
+        "jm": "KOM",
+        "cijena": 0.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12610",
+        "naziv": "SALATA OD SVJEŽIH KRASTAVACA",
+        "grupa": "414",
+        "jm": "KOM",
+        "cijena": 0.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12614",
+        "naziv": "ZELENA SALATA",
+        "grupa": "414",
+        "jm": "KOM",
+        "cijena": 0.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      }
+    ]
+  },
+  {
+    "naziv_grupe": "DESERT",
+    "jela_u_grupi": [
+      {
+        "sifra": "13902",
+        "naziv": "CAO CAO",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 0.66,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13950",
+        "naziv": "DANAC",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13906",
+        "naziv": "KINDER DELICE",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 0.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13953",
+        "naziv": "PITA S VIŠNJAMA",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13952",
+        "naziv": "PITA SA SIROM",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13946",
+        "naziv": "ROBIJEV KOLAČ",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13955",
+        "naziv": "ROMB ČOKOLADA - PALAČ. NUTELLA",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13954",
+        "naziv": "ROMB VANILIJA - PALAČ.MARMELADA",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12828",
+        "naziv": "SAVIJAČA OD VIŠANJA",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13751",
+        "naziv": "SLADOLED KUGLA VELIKA",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 0.53,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13752",
+        "naziv": "SLADOLED ŠTAPIĆ",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 1.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13951",
+        "naziv": "ŠTRUDEL OD JABUKA",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12857",
+        "naziv": "VANILIJA ROLADA",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12753",
+        "naziv": "VOĆE - BANANA",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 0.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12751",
+        "naziv": "VOĆE - JABUKA",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 0.4,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12754",
+        "naziv": "VOĆE - MANDARINA",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 0.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12752",
+        "naziv": "VOĆE-NARANČA",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 0.35,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13925",
+        "naziv": "ZLATNA ROLADA",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13901",
+        "naziv": "ŽITNE PLOČICE",
+        "grupa": "415",
+        "jm": "KOM",
+        "cijena": 0.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      }
+    ]
+  },
+  {
+    "naziv_grupe": "MLIJEČNI PROIZVODI",
+    "jela_u_grupi": [
+      {
+        "sifra": "12902",
+        "naziv": "JOGURT",
+        "grupa": "416",
+        "jm": "KOM",
+        "cijena": 0.49,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13606",
+        "naziv": "MLIJEČNI NAMAZ",
+        "grupa": "416",
+        "jm": "KOM",
+        "cijena": 0.75,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13702",
+        "naziv": "MLIJEKO ČOKOLADNO",
+        "grupa": "416",
+        "jm": "KOM",
+        "cijena": 0.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13701",
+        "naziv": "MLIJEKO TRAJNO",
+        "grupa": "416",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12901",
+        "naziv": "PROBIOTIK",
+        "grupa": "416",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12701",
+        "naziv": "PUDING ČOKOLADA",
+        "grupa": "416",
+        "jm": "KOM",
+        "cijena": 0.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12702",
+        "naziv": "PUDING VANILIJA",
+        "grupa": "416",
+        "jm": "KOM",
+        "cijena": 0.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12905",
+        "naziv": "VOĆNI JOGURT",
+        "grupa": "416",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12903",
+        "naziv": "VRHNJE",
+        "grupa": "416",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      }
+    ]
+  },
+  {
+    "naziv_grupe": "VEGE JELA",
+    "jela_u_grupi": [
+      {
+        "sifra": "12309",
+        "naziv": "KUHANO  JAJE",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 0.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12301",
+        "naziv": "LAZANJE OD POVRĆA",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 3.3,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12315",
+        "naziv": "ODREZAK OD TIKVICA",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12316",
+        "naziv": "PIRJANI ŠAMPINJONI U UMAKU OD VR",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 2.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12317",
+        "naziv": "POHANA BROKULA",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 1.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12306",
+        "naziv": "POHANA CVJETAČA",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 1.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12307",
+        "naziv": "POHANE TIKVICE",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 1.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12319",
+        "naziv": "POHANI PATLIĐANI",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 1.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12320",
+        "naziv": "POHANI SIR",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 2.1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12436",
+        "naziv": "RIŽOTO OD ŠAMPINJONA",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12324",
+        "naziv": "SOJA STEAK POHANI",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 1.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12325",
+        "naziv": "SOJA STEAK PRŽENI",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 1.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12432",
+        "naziv": "TJESTENINA S BROKULOM",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12334",
+        "naziv": "TORT.SA ŠPIN.I UMAK.OD SVJEŽ.SIR",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 2.1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12330",
+        "naziv": "TORTE.SA SIR. I UMAK.OD SVJE.SIR",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 2.1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12331",
+        "naziv": "TORTELINI SA SIROM I UM OD ŠAMP",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 2.1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12329",
+        "naziv": "TORTELINI SA SIROM I UMAK.OD RAJ",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 2.1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12333",
+        "naziv": "TORTELINI SA ŠPINATOM I UM OD RA",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 2.1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12335",
+        "naziv": "TORTELINI SA ŠPINATOM I UM OD ŠA",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 2.1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12327",
+        "naziv": "ZAPEČENO TIJESTO SA SIROM",
+        "grupa": "421",
+        "jm": "KOM",
+        "cijena": 1.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      }
+    ]
+  },
+  {
+    "naziv_grupe": "BRZA JELA",
+    "jela_u_grupi": [
+      {
+        "sifra": "13213",
+        "naziv": "BUREK SA SIROM",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 1.9,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13201",
+        "naziv": "CORNFLAKES",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13302",
+        "naziv": "CRVENI LUK",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 0.2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13204",
+        "naziv": "HAMBURGER",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13203",
+        "naziv": "HOT DOG",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 1.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13304",
+        "naziv": "KEČAP  VREĆICA",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 0.3,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13216",
+        "naziv": "KROASAN",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13305",
+        "naziv": "MAJONEZA",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 0.35,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13602",
+        "naziv": "MASLAC",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 0.3,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13604",
+        "naziv": "MED",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 0.35,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13218",
+        "naziv": "OMLET",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13308",
+        "naziv": "PARMEZAN",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13605",
+        "naziv": "PAŠTETA",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12802",
+        "naziv": "PECIVO 0.10",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 0.2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12239",
+        "naziv": "PILEĆE HRENOVKE",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 1.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13212",
+        "naziv": "PIROŠKA SA SIROM",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 0.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13217",
+        "naziv": "PIZZA - MALA",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13136",
+        "naziv": "PIZZA S HAMBURGEROM",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 1.8,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13134",
+        "naziv": "PIZZA SIR",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 1.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13131",
+        "naziv": "PIZZA VELIKA",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13211",
+        "naziv": "SALATA S PILETINOM I TJESTENINOM",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 2.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13609",
+        "naziv": "SARDINA S POVRĆEM",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 1.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13608",
+        "naziv": "SARDINA U ULJU",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 1.5,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13501",
+        "naziv": "SENDVIČ MIJEŠANI",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 1.3,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13505",
+        "naziv": "SENDVIČ OD KULENA I SIRA",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 1.3,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13503",
+        "naziv": "SENDVIČ OD SIRA",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 1.2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13307",
+        "naziv": "SENF VREĆICA",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 0.35,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13206",
+        "naziv": "SIR S VRHNJEM",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13601",
+        "naziv": "SIR TOPLJENI",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 0.35,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13403",
+        "naziv": "SVIJETLI UMAK",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 0,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13405",
+        "naziv": "TARTAR UMAK",
+        "grupa": "422",
+        "jm": "KOM",
+        "cijena": 1.2,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      }
+    ]
+  },
+  {
+    "naziv_grupe": "VARIVA",
+    "jela_u_grupi": [
+      {
+        "sifra": "12501",
+        "naziv": "FINO VARIVO",
+        "grupa": "423",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12502",
+        "naziv": "GRAH VARIVO",
+        "grupa": "423",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12507",
+        "naziv": "VARIVO OD GRAŠKA",
+        "grupa": "423",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12508",
+        "naziv": "VARIVO OD KELJA",
+        "grupa": "423",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12509",
+        "naziv": "VARIVO OD MAHUNA",
+        "grupa": "423",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "12510",
+        "naziv": "VARIVO OD PORILUKA",
+        "grupa": "423",
+        "jm": "KOM",
+        "cijena": 1.7,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      }
+    ]
+  },
+  {
+    "naziv_grupe": "PIĆA I NAPITCI",
+    "jela_u_grupi": [
+      {
+        "sifra": "12951",
+        "naziv": "ČAJ",
+        "grupa": "752",
+        "jm": "KOM",
+        "cijena": 0.4,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13801",
+        "naziv": "SOK BRICK BOROVNICA",
+        "grupa": "752",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13806",
+        "naziv": "SOK BRICK BRESKVA",
+        "grupa": "752",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13802",
+        "naziv": "SOK BRICK COCTAIL",
+        "grupa": "752",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13803",
+        "naziv": "SOK BRICK JABUKA",
+        "grupa": "752",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13809",
+        "naziv": "SOK BRICK MARELICA",
+        "grupa": "752",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13804",
+        "naziv": "SOK BRICK MULTIVITAMIN",
+        "grupa": "752",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13810",
+        "naziv": "SOK BRICK ORANGE JUICE",
+        "grupa": "752",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13805",
+        "naziv": "SOK BRICK VIŠNJA",
+        "grupa": "752",
+        "jm": "KOM",
+        "cijena": 0.6,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      },
+      {
+        "sifra": "13811",
+        "naziv": "VODA NEGAZIRANA 0,5",
+        "grupa": "752",
+        "jm": "KOM",
+        "cijena": 1,
+        "stud_cijena": 0,
+        "posto_sub": 0,
+        "datum": null
+      }
+    ]
+  }
+]

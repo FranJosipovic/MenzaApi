@@ -1,0 +1,116 @@
+﻿[
+  {
+    "id": "osijek-istarska",
+    "name": "Restoran Istarska",
+    "city": "Osijek",
+    "address": "Osijek, Istarska 1B",
+    "phone": "031/220-600",
+    "postalCode": 31000,
+    "latitude": 45.55614191735081,
+    "longitude": 18.69436264381445,
+    "workingHoursDesc": "ponedjeljak-petak od 8-20 sati (gosti se poslužuju do 19:30)",
+    "closedHoursDesc": "subota i nedjelja ZATVORENO!",
+    "hoursByDay": {
+      "monday": {
+        "open": "8",
+        "close": "20"
+      },
+      "tuesday": {
+        "open": "8",
+        "close": "20"
+      },
+      "wednesday": {
+        "open": "8",
+        "close": "20"
+      },
+      "thursday": {
+        "open": "8",
+        "close": "20"
+      },
+      "friday": {
+        "open": "8",
+        "close": "20"
+      },
+      "saturday": null,
+      "sunday": null
+    }
+  },
+  {
+    "id": "osijek-campus",
+    "name": "Restoran Campus",
+    "city": "Osijek",
+    "address": "Osijek, Ulica L. Ružičke 3",
+    "phone": "031/251-346",
+    "postalCode": 31000,
+    "latitude": 45.55721334547614,
+    "longitude": 18.707602974421118,
+    "workingHoursDesc": "𝗽𝗼𝗻𝗲𝗱𝗷𝗲𝗹𝗷𝗮𝗸 – 𝗽𝗲𝘁𝗮𝗸 𝗼𝗱 𝟴 𝗱𝗼 𝟮𝟬 𝘀𝗮𝘁𝗶 (𝗴𝗼𝘀𝘁𝗶 𝘀𝗲 𝗽𝗼𝘀𝗹𝘂ž𝘂𝗷𝘂 𝗱𝗼 𝟭𝟵:𝟯𝟬), 𝘀𝘂𝗯𝗼𝘁𝗮 - 𝗶 𝗻𝗲𝗱𝗷𝗲𝗹𝗷𝗮 𝗼𝗱 𝟭𝟭:𝟯𝟬 𝗱𝗼 𝟭𝟴:𝟯𝟬 𝘀𝗮𝘁𝗶",
+    "closedHoursDesc": "",
+    "hoursByDay": {
+      "monday": {
+        "open": "8",
+        "close": "20"
+      },
+      "tuesday": {
+        "open": "8",
+        "close": "20"
+      },
+      "wednesday": {
+        "open": "8",
+        "close": "20"
+      },
+      "thursday": {
+        "open": "8",
+        "close": "20"
+      },
+      "friday": {
+        "open": "8",
+        "close": "20"
+      },
+      "saturday": {
+        "open": "9:30",
+        "close": "18:30"
+      },
+      "sunday": {
+        "open": "9:30",
+        "close": "18:30"
+      }
+    }
+  },
+  {
+    "id": "osijek-gaudeamus",
+    "name": "Restoran Gaudeamus",
+    "city": "Osijek",
+    "address": "Osijek, Istarska 1B",
+    "phone": "031/220-600",
+    "postalCode": 31000,
+    "latitude": 45.55614191735081,
+    "longitude": 18.69436264381445,
+    "workingHoursDesc": "ponedjeljak-petak od 11:00 do 19:00 sati",
+    "closedHoursDesc": "subota i nedjelja ZATVORENO!",
+    "hoursByDay": {
+      "monday": {
+        "open": "11",
+        "close": "19"
+      },
+      "tuesday": {
+        "open": "11",
+        "close": "19"
+      },
+      "wednesday": {
+        "open": "11",
+        "close": "19"
+      },
+      "thursday": {
+        "open": "11",
+        "close": "19"
+      },
+      "friday": {
+        "open": "11",
+        "close": "19"
+      },
+      "saturday": null,
+      "sunday": null
+    }
+  }
+]

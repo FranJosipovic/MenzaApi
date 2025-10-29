@@ -1,8 +1,6 @@
-﻿using Menza.WebApi.Models.OsijekMenze;
-using Microsoft.AspNetCore.Http;
+﻿using Menza.WebApi.Models;
+using Menza.WebApi.Repository;
 using Microsoft.AspNetCore.Mvc;
-using System.Text;
-using System.Text.Json;
 
 namespace Menza.WebApi.Controllers
 {
@@ -10,86 +8,90 @@ namespace Menza.WebApi.Controllers
     [ApiController]
     public class MenzaController : ControllerBase
     {
-        private readonly IHttpClientFactory _httpClientFactory;
-        public MenzaController(IHttpClientFactory httpClientFactory)
+        private readonly MenuRepository _menuRepository;
+        private readonly MenzeRespository _menzeRespository;
+        public MenzaController(MenzeRespository menzeRespository, MenuRepository menuRepository)
         {
-            _httpClientFactory = httpClientFactory;
+            _menzeRespository = menzeRespository;
+            _menuRepository = menuRepository;
         }
 
-        [HttpGet("/istarska")]
-        public async Task<IActionResult> GetIstarska()
+        /// <summary>
+        /// Gets the menu for a specific menza (restaurant).
+        /// </summary>
+        /// <param name="menzaId">The identifier of the menza (e.g. "osijek-campus").</param>
+        /// <returns>The daily or weekly menu for the specified restaurant.</returns>
+        /// <response code="200">Returns the menu for the given menza.</response>
+        /// <response code="404">If the menza or its menu is not found.</response>
+        /// <response code="500">If an unexpected server error occurs.</response>
+        [HttpGet("campus/{menzaId}")]
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(List<MealGroup>))]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        public async Task<IActionResult> GetCampus([FromRoute] string menzaId)
         {
-            using var client = _httpClientFactory.CreateClient("stucos");
-
-            var endpoint = "/upload/televizor_431.json";
-
-            var res = await client.GetAsync(endpoint);
-            if (!res.IsSuccessStatusCode)
-                return StatusCode((int)res.StatusCode, "Failed to fetch JSON");
-
-            // Read content bytes (raw)
-            var bytes = await res.Content.ReadAsByteArrayAsync();
-
-            // Try to detect encoding from headers
-            var charset = res.Content.Headers.ContentType?.CharSet;
-
-            // Default to UTF-8 if nothing specified
-            var encoding = !string.IsNullOrWhiteSpace(charset)
-                ? System.Text.Encoding.GetEncoding(charset)
-                : System.Text.Encoding.GetEncoding("ISO-8859-2");
-
-            // Decode manually
-            var json = encoding.GetString(bytes);
-
-            // Deserialize JSON safely
-            var options = new JsonSerializerOptions
+            try
             {
-                PropertyNameCaseInsensitive = true
-            };
-
-            List<GrupaJela>? grupe = JsonSerializer.Deserialize<List<GrupaJela>>(json, options);
-
-            if (grupe == null || grupe.Count == 0)
-                return NotFound("No menu data found");
-
-            return Ok(grupe);
-        }
-
-        [HttpGet("/campus")]
-        public async Task<IActionResult> GetCampus()
-        {
-            using var client = _httpClientFactory.CreateClient("stucos");
-
-            var endpoint = "/upload/televizor_434.json";
-
-            var res = await client.GetAsync(endpoint);
-            if (!res.IsSuccessStatusCode)
-                return StatusCode((int)res.StatusCode, "Failed to fetch JSON");
-
-            // Read content bytes (raw)
-            var bytes = await res.Content.ReadAsByteArrayAsync();
-
-            // Try to detect encoding from headers
-            var charset = res.Content.Headers.ContentType?.CharSet;
-
-            // Default to UTF-8 if nothing specified
-            var encoding = Encoding.GetEncoding("windows-1250");
-
-            // Decode manually
-            var json = encoding.GetString(bytes);
-
-            // Deserialize JSON safely
-            var options = new JsonSerializerOptions
+                var menu = await _menuRepository.GetMenuByRestaurantId(menzaId);
+                if (menu == null)
+                    return NotFound();
+                else
+                    return Ok(menu);
+            }
+            catch (Exception)
             {
-                PropertyNameCaseInsensitive = true
-            };
-
-            List<GrupaJela>? grupe = JsonSerializer.Deserialize<List<GrupaJela>>(json, options);
-
-            if (grupe == null || grupe.Count == 0)
-                return NotFound("No menu data found");
-
-            return Ok(grupe);
+                return StatusCode(500);
+            }
         }
+
+        /// <summary>
+        /// Finds nearby menza restaurants in Croatia based on user location.
+        /// </summary>
+        /// <param name="lat">Latitude coordinate of the user (e.g. 45.815).</param>
+        /// <param name="lon">Longitude coordinate of the user (e.g. 15.9819).</param>
+        /// <param name="city">City name (used if GPS coordinates are unavailable).</param>
+        /// <param name="postalCode">Postal code (alternative to coordinates or city).</param>
+        /// <returns>A list of nearby menza restaurants matching the given location criteria.</returns>
+        /// <response code="200">Returns a list of nearby restaurants.</response>
+        /// <response code="400">Returned when no valid location parameters are provided.</response>
+        /// <response code="500">Returned when an internal server error occurs.</response>
+        [HttpGet("nearby")]
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(List<Restaurant>))]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        public IActionResult GetNearby(
+            [FromQuery] double? lat,
+            [FromQuery] double? lon,
+            [FromQuery] string? city,
+            [FromQuery] int? postalCode)
+        {
+            try
+            {
+                if (lat.HasValue && lon.HasValue)
+                {
+                    var restaurants = _menzeRespository.GetRestaurantsByLongAndLat(lat.Value, lon.Value);
+                    return Ok(restaurants);
+                }
+
+                if (!string.IsNullOrWhiteSpace(city))
+                {
+                    var restaurants = _menzeRespository.GetRestaurantsByCityAsync(city);
+                    return Ok(restaurants);
+                }
+
+                if (postalCode is not null)
+                {
+                    var restaurants = _menzeRespository.GetRestaurantsByPostalCodeAsync(postalCode.Value);
+                    return Ok(restaurants);
+                }
+
+                return BadRequest("Missing location parameters. Provide lat/lon or city or postalCode.");
+            }
+            catch (Exception)
+            {
+                return StatusCode(500);
+            }
+        }
+
     }
 }

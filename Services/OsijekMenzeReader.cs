@@ -6,11 +6,11 @@ namespace Menza.WebApi.Services
 {
     public class OsijekMenzeReader
     {
-        private readonly IHttpClientFactory _httpClientFactory;
+        private readonly HttpClient _httpClient;
 
-        public OsijekMenzeReader(IHttpClientFactory httpClientFactory)
+        public OsijekMenzeReader(HttpClient httpClient)
         {
-            _httpClientFactory = httpClientFactory;
+            _httpClient = httpClient;
         }
 
         public async Task<List<GrupaJela>?> GetCampusAsync()
@@ -27,9 +27,7 @@ namespace Menza.WebApi.Services
 
         private async Task<List<GrupaJela>?> Get(string endpoint)
         {
-            using var client = _httpClientFactory.CreateClient("stucos");
-
-            var res = await client.GetAsync(endpoint);
+            var res = await _httpClient.GetAsync(endpoint);
             if (!res.IsSuccessStatusCode)
                 return null;
 
