@@ -22,13 +22,19 @@ namespace Menza.WebApi.Controllers
         /// <param name="menzaId">The identifier of the menza (e.g. "osijek-campus").</param>
         /// <returns>The daily or weekly menu for the specified restaurant.</returns>
         /// <response code="200">Returns the menu for the given menza.</response>
+        /// <response code="401">If api key is not passed as header parameter.</response>
+        /// <response code="403">If api key is invalid.</response>
         /// <response code="404">If the menza or its menu is not found.</response>
         /// <response code="500">If an unexpected server error occurs.</response>
         [HttpGet("campus/{menzaId}")]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(List<MealGroup>))]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
+        [ProducesResponseType(StatusCodes.Status403Forbidden)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public async Task<IActionResult> GetCampus([FromRoute] string menzaId)
+        public async Task<IActionResult> GetCampus(
+            [FromHeader(Name = "X-API-KEY")] string apiKey, 
+            [FromRoute] string menzaId)
         {
             try
             {
@@ -54,12 +60,17 @@ namespace Menza.WebApi.Controllers
         /// <returns>A list of nearby menza restaurants matching the given location criteria.</returns>
         /// <response code="200">Returns a list of nearby restaurants.</response>
         /// <response code="400">Returned when no valid location parameters are provided.</response>
+        /// <response code="401">If api key is not passed as header parameter.</response>
+        /// <response code="403">If api key is invalid.</response>
         /// <response code="500">Returned when an internal server error occurs.</response>
         [HttpGet("nearby")]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(List<Restaurant>))]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
+        [ProducesResponseType(StatusCodes.Status403Forbidden)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public IActionResult GetNearby(
+            [FromHeader(Name = "X-API-KEY")] string apiKey,
             [FromQuery] double? lat,
             [FromQuery] double? lon,
             [FromQuery] string? city,

@@ -1,3 +1,4 @@
+using Menza.WebApi.Middleware;
 using Menza.WebApi.Repository;
 using Menza.WebApi.Services;
 
@@ -22,14 +23,20 @@ builder.Services.AddHttpClient<OsijekMenzeReader>((serviceProvider, client) =>
 
 System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
 
+builder.Services.AddHealthChecks();
+
 var app = builder.Build();
 
+app.MapHealthChecks("/healthz");
+
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
+
+app.UseMiddleware<ApiKeyMiddleware>();
 
 app.UseHttpsRedirection();
 
