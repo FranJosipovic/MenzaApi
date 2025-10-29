@@ -1,0 +1,8 @@
+[build]
+builder = "dockerfile"
+dockerFilePath = "./Menza.WebApi/Dockerfile"
+
+[deploy]
+startCommand = "./Menza.WebApi"
+restartPolicyType = "always"
+healthCheckPath = "/health"
