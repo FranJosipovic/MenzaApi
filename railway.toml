@@ -3,6 +3,6 @@ builder = "dockerfile"
 dockerFilePath = "./Menza.WebApi/Dockerfile"
 
 [deploy]
-startCommand = "./Menza.WebApi"
+startCommand = "dotnet, Menza.WebApi.dll"
 restartPolicyType = "always"
 healthCheckPath = "/health"
